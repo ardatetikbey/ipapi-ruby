@@ -1,5 +1,5 @@
 Gem::Specification.new do |spec|
-  spec.name = "ipapi"
+  spec.name = "ipapi-ruby"
   spec.authors = ["Arda Tetik"]
   spec.email = ["ardatetik1881@gmail.com"]
   spec.version = "1.0.0"
