@@ -32,7 +32,7 @@ require ipapi
 
 Query your own IP:
 ```ruby
-Ipapi.query_own_ip
+Ipapi.query_own_ip()
 ```
 
 Query a specific IP:
@@ -60,3 +60,6 @@ location:
 risk:
   is_datacenter: true
 ```
+
+License
+- This project is open-source and available under the MIT License.
