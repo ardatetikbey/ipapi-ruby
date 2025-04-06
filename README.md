@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ipapi-ruby
 
 A Ruby gem to query IP addresses using the ipquery.io API.
