@@ -27,7 +27,7 @@ gem install ipapi
 First, make sure to require the module in your script:
 
 ```ruby
-require ipapi
+require "ipapi"
 ```
 
 Query your own IP:
